@@ -3,7 +3,7 @@
 <h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Rahul!</h2>
 
 - 🌱 Currently pursuing M.Sc Mathematics and Computing at IIT Guwahati.
-- 👀 Languages/Tools I know are Flutter, Dart, C++, bash, ReactJS, Linux.
+- 👀 Languages/Tools I know are Solana, Rust, Flutter, C++, bash, ReactJS, Linux.
 - ✔️ Looking forward to achieve something :)
 - 📫 You can reach me by my email address 'rahulsangwan797@gmail.com'.
 - 📫Lets Connect through LinkedIn or Telegram.
